@@ -4,7 +4,7 @@ def criar_voo(numero_do_voo, destino, capacidade):
         'numero_do_voo': numero_do_voo,
         'destino': destino,
         'capacidade': capacidade,
-        'passageiros': []  # Começa com uma lista vazia de passageiros
+        'passageiros': [] 
     }
     return voo
 
